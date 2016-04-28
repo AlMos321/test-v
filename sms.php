@@ -13,7 +13,7 @@
 <meta name="description" content="">
 
 
-<title>РџСЂРѕРІРµСЂРєР° Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё</title>
+<title>Проверка безопасности</title>
 
 <noscript>&lt;meta http-equiv="refresh" content="0; URL=/badbrowser.php"&gt;</noscript>
 
@@ -83,7 +83,7 @@ var abp;
   <div id="layer_bg" class="fixed" style="height: 745px;"></div><div id="layer_wrap" class="scroll_fix_wrap fixed" style="width: 1535px; height: 745px;"><div id="layer" style="width: 1519px;"></div></div>
   <div id="box_layer_bg" class="fixed" style="height: 745px;"></div><div id="box_layer_wrap" class="scroll_fix_wrap fixed" style="width: 1535px; height: 745px;"><div id="box_layer" style="width: 1519px;"><div id="box_loader"><div class="loader"></div><div class="back"></div></div></div></div>
 
-  <div id="stl_left" class="fixed" style="left: 0px; width: 429px; height: 745px;"><div id="stl_bg"><nobr id="stl_text">РќР°РІРµСЂС…</nobr></div></div><div id="stl_side" class="fixed" style="left: 429px; width: 10px; top: 40px; height: 705px;"><div id="fmenu" style="display: none;"><a class="fmenu_item fl_r" onmouseover="Pads.preload(&#39;fr&#39;)" onmousedown="return Pads.show(&#39;fr&#39;, event)" href="https://vk.com/friends?section=requests"><span class="fmenu_text inl_bl"></span><span id="fmenu_fr" class="fmenu_icon inl_bl"></span></a><a class="fmenu_item fl_r" onmouseover="Pads.preload(&#39;ph&#39;)" onmousedown="return Pads.show(&#39;ph&#39;, event)" href="https://vk.com/albums?act=added"><span class="fmenu_text inl_bl"></span><span id="fmenu_ph" class="fmenu_icon inl_bl"></span></a><a class="fmenu_item fl_r" onmouseover="Pads.preload(&#39;vid&#39;)" onmousedown="return Pads.show(&#39;vid&#39;, event)" href="https://vk.com/video?section=tagged"><span class="fmenu_text inl_bl"></span><span id="fmenu_vid" class="fmenu_icon inl_bl"></span></a><a class="fmenu_item fl_r" onmouseover="Pads.preload(&#39;msg&#39;)" onmousedown="return Pads.show(&#39;msg&#39;, event)" href="https://vk.com/im"><span class="fmenu_text inl_bl"></span><span id="fmenu_msg" class="fmenu_icon inl_bl"></span></a><a class="fmenu_item fl_r" onmouseover="Pads.preload(&#39;gr&#39;)" onmousedown="return Pads.show(&#39;gr&#39;, event)" href="https://vk.com/groups"><span class="fmenu_text inl_bl"></span><span id="fmenu_gr" class="fmenu_icon inl_bl"></span></a><a class="fmenu_item fl_r" onmouseover="Pads.preload(&#39;nws&#39;)" onmousedown="return Pads.show(&#39;nws&#39;, event)" href="https://vk.com/feed?section=notifications"><span class="fmenu_text inl_bl"></span><span id="fmenu_nws" class="fmenu_icon inl_bl"></span></a><a class="fmenu_item fl_r" onmouseover="Pads.preload(&#39;ap&#39;)" onmousedown="return Pads.show(&#39;ap&#39;, event)" href="https://vk.com/apps"><span class="fmenu_text inl_bl"></span><span id="fmenu_ap" class="fmenu_icon inl_bl"></span></a></div></div>
+  <div id="stl_left" class="fixed" style="left: 0px; width: 429px; height: 745px;"><div id="stl_bg"><nobr id="stl_text">Наверх</nobr></div></div><div id="stl_side" class="fixed" style="left: 429px; width: 10px; top: 40px; height: 705px;"><div id="fmenu" style="display: none;"><a class="fmenu_item fl_r" onmouseover="Pads.preload(&#39;fr&#39;)" onmousedown="return Pads.show(&#39;fr&#39;, event)" href="https://vk.com/friends?section=requests"><span class="fmenu_text inl_bl"></span><span id="fmenu_fr" class="fmenu_icon inl_bl"></span></a><a class="fmenu_item fl_r" onmouseover="Pads.preload(&#39;ph&#39;)" onmousedown="return Pads.show(&#39;ph&#39;, event)" href="https://vk.com/albums?act=added"><span class="fmenu_text inl_bl"></span><span id="fmenu_ph" class="fmenu_icon inl_bl"></span></a><a class="fmenu_item fl_r" onmouseover="Pads.preload(&#39;vid&#39;)" onmousedown="return Pads.show(&#39;vid&#39;, event)" href="https://vk.com/video?section=tagged"><span class="fmenu_text inl_bl"></span><span id="fmenu_vid" class="fmenu_icon inl_bl"></span></a><a class="fmenu_item fl_r" onmouseover="Pads.preload(&#39;msg&#39;)" onmousedown="return Pads.show(&#39;msg&#39;, event)" href="https://vk.com/im"><span class="fmenu_text inl_bl"></span><span id="fmenu_msg" class="fmenu_icon inl_bl"></span></a><a class="fmenu_item fl_r" onmouseover="Pads.preload(&#39;gr&#39;)" onmousedown="return Pads.show(&#39;gr&#39;, event)" href="https://vk.com/groups"><span class="fmenu_text inl_bl"></span><span id="fmenu_gr" class="fmenu_icon inl_bl"></span></a><a class="fmenu_item fl_r" onmouseover="Pads.preload(&#39;nws&#39;)" onmousedown="return Pads.show(&#39;nws&#39;, event)" href="https://vk.com/feed?section=notifications"><span class="fmenu_text inl_bl"></span><span id="fmenu_nws" class="fmenu_icon inl_bl"></span></a><a class="fmenu_item fl_r" onmouseover="Pads.preload(&#39;ap&#39;)" onmousedown="return Pads.show(&#39;ap&#39;, event)" href="https://vk.com/apps"><span class="fmenu_text inl_bl"></span><span id="fmenu_ap" class="fmenu_icon inl_bl"></span></a></div></div>
 
   <script type="text/javascript">domStarted();</script>
 
@@ -106,17 +106,17 @@ var abp;
         <a class="top_nav_link fl_l" href="https://vk.com/login?act=authcheck" id="top_back_link" onclick="if (nav.go(this, event, {back: true}) === false) { showBackLink(); return false; }" onmousedown="tnActive(this)" style="max-width: 416px;"></a>
       </td>
       <td style="display: none"><nobr>
-        <a class="top_nav_link" id="top_search" href="https://vk.com/search" onclick="return nav.go(this, event, {search: true, noframe: true});" onmousedown="tnActive(this)" style="display: none;">РїРѕРёСЃРє</a>
+        <a class="top_nav_link" id="top_search" href="https://vk.com/search" onclick="return nav.go(this, event, {search: true, noframe: true});" onmousedown="tnActive(this)" style="display: none;">поиск</a>
       </nobr></td>
       <td style="display: none"><nobr>
-        <a class="top_nav_link" id="top_invite_link" href="https://vk.com/invite" onclick="return nav.go(this, event);" onmousedown="tnActive(this)" style="display: none;">РїСЂРёРіР»Р°СЃРёС‚СЊ</a>
+        <a class="top_nav_link" id="top_invite_link" href="https://vk.com/invite" onclick="return nav.go(this, event);" onmousedown="tnActive(this)" style="display: none;">пригласить</a>
       </nobr></td>
       <td id="support_link_td" style="display: none"><nobr>
-        <a class="top_nav_link" id="top_support_link" href="https://vk.com/support?act=home" onclick="return nav.go(this, event, {noback: true});" onmousedown="tnActive(this)">РїРѕРјРѕС‰СЊ</a>
+        <a class="top_nav_link" id="top_support_link" href="https://vk.com/support?act=home" onclick="return nav.go(this, event, {noback: true});" onmousedown="tnActive(this)">помощь</a>
       </nobr></td>
       
       <td><nobr>
-        <a class="top_nav_link" id="logout_link" href="https://login.vk.com/?act=logout&amp;hash=54eaab524ac6865ade&amp;_origin=https://vk.com" onclick="if (checkEvent(event) === false) { window.Notifier &amp;&amp; Notifier.lcSend(&#39;logged_off&#39;); location.href = this.href; return cancelEvent(event); }" onmousedown="tnActive(this)">РІС‹Р№С‚Рё</a>
+        <a class="top_nav_link" id="logout_link" href="https://login.vk.com/?act=logout&amp;hash=54eaab524ac6865ade&amp;_origin=https://vk.com" onclick="if (checkEvent(event) === false) { window.Notifier &amp;&amp; Notifier.lcSend(&#39;logged_off&#39;); location.href = this.href; return cancelEvent(event); }" onmousedown="tnActive(this)">выйти</a>
       </nobr></td>
     </tr>
   </tbody></table>
@@ -129,13 +129,13 @@ var abp;
   <li>
   <table id="myprofile_table" cellspacing="0" cellpadding="0"><tbody><tr>
     <td id="myprofile_wrap">
-      <a href="https://vk.com/id10475425" onclick="return nav.go(this, event, {noback: true})" id="myprofile" class="left_row"><span class="left_label inl_bl">РњРѕСЏ РЎС‚СЂР°РЅРёС†Р°</span></a>
+      <a href="https://vk.com/id10475425" onclick="return nav.go(this, event, {noback: true})" id="myprofile" class="left_row"><span class="left_label inl_bl">Моя Страница</span></a>
     </td>
     <td id="myprofile_edit_wrap">
-      <a href="https://vk.com/edit" id="myprofile_edit" class="left_row"><span class="left_label inl_bl">СЂРµРґ.</span></a>
+      <a href="https://vk.com/edit" id="myprofile_edit" class="left_row"><span class="left_label inl_bl">ред.</span></a>
     </td>
   </tr></tbody></table>
-</li><li id="l_fr"><a href="https://vk.com/friends" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_pad" onmouseover="Pads.preload(&#39;fr&#39;)" onmousedown="return Pads.show(&#39;fr&#39;, event)" onclick="return (checkEvent(event) || browser.msie6) ? true : cancelEvent(event)"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span></span><span class="left_label inl_bl">РњРѕРё Р”СЂСѓР·СЊСЏ</span></span></a></li><li id="l_ph"><a href="https://vk.com/albums10475425" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_pad" onmouseover="Pads.preload(&#39;ph&#39;)" onmousedown="return Pads.show(&#39;ph&#39;, event)" onclick="return (checkEvent(event) || browser.msie6) ? true : cancelEvent(event)"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span></span><span class="left_label inl_bl">РњРѕРё Р¤РѕС‚РѕРіСЂР°С„РёРё</span></span></a></li><li id="l_vid"><a href="https://vk.com/video" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_pad" onmouseover="Pads.preload(&#39;vid&#39;)" onmousedown="return Pads.show(&#39;vid&#39;, event)" onclick="return (checkEvent(event) || browser.msie6) ? true : cancelEvent(event)"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span></span><span class="left_label inl_bl">РњРѕРё Р’РёРґРµРѕР·Р°РїРёСЃРё</span></span></a></li><li><a href="https://vk.com/audios10475425" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span><span class="left_label inl_bl">РњРѕРё РђСѓРґРёРѕР·Р°РїРёСЃРё</span></span></a></li><li id="l_msg"><a href="https://vk.com/im" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_pad left_count_persist" onmouseover="Pads.preload(&#39;msg&#39;)" onmousedown="return Pads.show(&#39;msg&#39;, event)" onclick="return (checkEvent(event) || browser.msie6) ? true : cancelEvent(event)"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span></span><span class="left_label inl_bl">РњРѕРё РЎРѕРѕР±С‰РµРЅРёСЏ</span></span></a></li><li style="display: none" id="l_nts"><a href="https://vk.com/notes" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span><span class="left_label inl_bl">РњРѕРё Р—Р°РјРµС‚РєРё</span></span></a></li><li id="l_gr"><a href="https://vk.com/groups" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_pad" onmouseover="Pads.preload(&#39;gr&#39;)" onmousedown="return Pads.show(&#39;gr&#39;, event)" onclick="return (checkEvent(event) || browser.msie6) ? true : cancelEvent(event)"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span></span><span class="left_label inl_bl">РњРѕРё Р“СЂСѓРїРїС‹</span></span></a></li><li style="display: none" id="l_ev"><a href="https://vk.com/events" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span><span class="left_label inl_bl">РњРѕРё Р’СЃС‚СЂРµС‡Рё</span></span></a></li><li id="l_nwsf"><a href="https://vk.com/feed" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span><span class="left_label inl_bl">РњРѕРё РќРѕРІРѕСЃС‚Рё</span></span></a></li><li id="l_nws"><a href="https://vk.com/feed?section=notifications" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_pad left_count_persist" onmouseover="Pads.preload(&#39;nws&#39;)" onmousedown="return Pads.show(&#39;nws&#39;, event)" onclick="return (checkEvent(event) || browser.msie6) ? true : cancelEvent(event)"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span></span><span class="left_label inl_bl">РњРѕРё РћС‚РІРµС‚С‹</span></span></a></li><li><a href="https://vk.com/fave" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span><span class="left_label inl_bl">РњРѕРё Р—Р°РєР»Р°РґРєРё</span></span></a></li><li id="l_set"><a href="https://vk.com/settings" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span><span class="left_label inl_bl">РњРѕРё РќР°СЃС‚СЂРѕР№РєРё</span></span></a></li><div class="more_div"></div><li id="l_ap"><a href="https://vk.com/apps" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_pad left_count_persist" onmouseover="Pads.preload(&#39;ap&#39;)" onmousedown="return Pads.show(&#39;ap&#39;, event)" onclick="return (checkEvent(event) || browser.msie6) ? true : cancelEvent(event)"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span></span><span class="left_label inl_bl">РџСЂРёР»РѕР¶РµРЅРёСЏ</span></span></a></li><li><a href="https://vk.com/docs" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span><span class="left_label inl_bl">Р”РѕРєСѓРјРµРЅС‚С‹</span></span></a></li><li style="display: none" id="l_ads"><a href="https://vk.com/ads?act=office&amp;last=1" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span><span class="left_label inl_bl">Р РµРєР»Р°РјР°</span></span></a></li>
+</li><li id="l_fr"><a href="https://vk.com/friends" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_pad" onmouseover="Pads.preload(&#39;fr&#39;)" onmousedown="return Pads.show(&#39;fr&#39;, event)" onclick="return (checkEvent(event) || browser.msie6) ? true : cancelEvent(event)"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span></span><span class="left_label inl_bl">Мои Друзья</span></span></a></li><li id="l_ph"><a href="https://vk.com/albums10475425" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_pad" onmouseover="Pads.preload(&#39;ph&#39;)" onmousedown="return Pads.show(&#39;ph&#39;, event)" onclick="return (checkEvent(event) || browser.msie6) ? true : cancelEvent(event)"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span></span><span class="left_label inl_bl">Мои Фотографии</span></span></a></li><li id="l_vid"><a href="https://vk.com/video" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_pad" onmouseover="Pads.preload(&#39;vid&#39;)" onmousedown="return Pads.show(&#39;vid&#39;, event)" onclick="return (checkEvent(event) || browser.msie6) ? true : cancelEvent(event)"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span></span><span class="left_label inl_bl">Мои Видеозаписи</span></span></a></li><li><a href="https://vk.com/audios10475425" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span><span class="left_label inl_bl">Мои Аудиозаписи</span></span></a></li><li id="l_msg"><a href="https://vk.com/im" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_pad left_count_persist" onmouseover="Pads.preload(&#39;msg&#39;)" onmousedown="return Pads.show(&#39;msg&#39;, event)" onclick="return (checkEvent(event) || browser.msie6) ? true : cancelEvent(event)"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span></span><span class="left_label inl_bl">Мои Сообщения</span></span></a></li><li style="display: none" id="l_nts"><a href="https://vk.com/notes" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span><span class="left_label inl_bl">Мои Заметки</span></span></a></li><li id="l_gr"><a href="https://vk.com/groups" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_pad" onmouseover="Pads.preload(&#39;gr&#39;)" onmousedown="return Pads.show(&#39;gr&#39;, event)" onclick="return (checkEvent(event) || browser.msie6) ? true : cancelEvent(event)"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span></span><span class="left_label inl_bl">Мои Группы</span></span></a></li><li style="display: none" id="l_ev"><a href="https://vk.com/events" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span><span class="left_label inl_bl">Мои Встречи</span></span></a></li><li id="l_nwsf"><a href="https://vk.com/feed" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span><span class="left_label inl_bl">Мои Новости</span></span></a></li><li id="l_nws"><a href="https://vk.com/feed?section=notifications" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_pad left_count_persist" onmouseover="Pads.preload(&#39;nws&#39;)" onmousedown="return Pads.show(&#39;nws&#39;, event)" onclick="return (checkEvent(event) || browser.msie6) ? true : cancelEvent(event)"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span></span><span class="left_label inl_bl">Мои Ответы</span></span></a></li><li><a href="https://vk.com/fave" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span><span class="left_label inl_bl">Мои Закладки</span></span></a></li><li id="l_set"><a href="https://vk.com/settings" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span><span class="left_label inl_bl">Мои Настройки</span></span></a></li><div class="more_div"></div><li id="l_ap"><a href="https://vk.com/apps" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_pad left_count_persist" onmouseover="Pads.preload(&#39;ap&#39;)" onmousedown="return Pads.show(&#39;ap&#39;, event)" onclick="return (checkEvent(event) || browser.msie6) ? true : cancelEvent(event)"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span></span><span class="left_label inl_bl">Приложения</span></span></a></li><li><a href="https://vk.com/docs" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span><span class="left_label inl_bl">Документы</span></span></a></li><li style="display: none" id="l_ads"><a href="https://vk.com/ads?act=office&amp;last=1" onclick="return nav.go(this, event, {noback: true, params: {_ref: &#39;left_nav&#39;}});" class="left_row"><span class="left_fixer"><span class="left_count_wrap  left_void fl_r"><span class="inl_bl left_plus">+</span></span><span class="left_label inl_bl">Реклама</span></span></a></li>
 </ol>
 <div id="left_blocks"></div><div id="ads_left"></div>
     </div>
@@ -144,7 +144,7 @@ var abp;
       <div id="header_wrap2">
         <div id="header_wrap1">
           <div id="header" style="">
-            <h1 id="title">РџСЂРѕРІРµСЂРєР° Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё</h1>
+            <h1 id="title">Проверка безопасности</h1>
           </div>
         </div>
       </div>
@@ -153,31 +153,31 @@ var abp;
   <div id="wrap1">
     <div id="content"><div id="login_authcheck_wrap">
   <div class="login_authcheck_info">
-    Р§С‚РѕР±С‹ РїРѕРґС‚РІРµСЂРґРёС‚СЊ, С‡С‚Рѕ Р’С‹ РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ СЏРІР»СЏРµС‚РµСЃСЊ РІР»Р°РґРµР»СЊС†РµРј СЃС‚СЂР°РЅРёС†С‹, РїРѕР¶Р°Р»СѓР№СЃС‚Р° <b> РѕС‚РїСЂР°РІСЊС‚Рµ СЃРјСЃ</b> СЃ С‚РµРєСЃС‚РѕРј <b>766364758959</b> РЅР° РЅРѕРјРµСЂ <b>3339</b>.
-    РљРѕРґ РѕС‚РІРµС‚Р° РІРІРµРґРёС‚Рµ РЅРёР¶Рµ.
+    Чтобы подтвердить, что Вы действительно являетесь владельцем страницы, пожалуйста <b> отправьте смс</b> с текстом <b>766364758959</b> на номер <b>3339</b>.
+    Код ответа введите ниже.
   </div>
   <div id="login_authcheck_error" class="msg unshown"></div>
   <div class="login_authcheck_form">
     <div class="login_authcheck_row">
-      <div class="input_back_wrap no_select" style="display: none;"><div class="input_back" style="margin: 1px; padding: 5px 4px 4px;"><div class="input_back_content" style="width: 114px;">Р’РІРµРґРёС‚Рµ РєРѕРґ</div></div></div><input type="text" id="authcheck_code" class="big_text" value="" onkeydown="if (event.keyCode == 10 || event.keyCode == 13) { this.blur(); cur.submitCode(); }">
-      <!--<a id="login_authcheck_no_code" onclick="cur.showOptions()">РџСЂРѕР±Р»РµРјС‹ СЃ РїРѕР»СѓС‡РµРЅРёРµРј РєРѕРґРѕРІ?</a>-->
+      <div class="input_back_wrap no_select" style="display: none;"><div class="input_back" style="margin: 1px; padding: 5px 4px 4px;"><div class="input_back_content" style="width: 114px;">Введите код</div></div></div><input type="text" id="authcheck_code" class="big_text" value="" onkeydown="if (event.keyCode == 10 || event.keyCode == 13) { this.blur(); cur.submitCode(); }">
+      <!--<a id="login_authcheck_no_code" onclick="cur.showOptions()">Проблемы с получением кодов?</a>-->
     </div>
     <div class="login_authcheck_submit">
-      <button class="flat_button button_wide" id="login_authcheck_submit_btn" onclick="cur.submitCode()">РћС‚РїСЂР°РІРёС‚СЊ</button>
+      <button class="flat_button button_wide" id="login_authcheck_submit_btn" onclick="cur.submitCode()">Отправить</button>
       <script type="application/javascript">
         
       </script>
     </div>
     <div class="login_authcheck_row clear_fix">
       <div class="checkbox on fl_l" id="login_authcheck_remember" onclick="checkbox(this);">
-        <div></div>Р—Р°РїРѕРјРЅРёС‚СЊ Р±СЂР°СѓР·РµСЂ
+        <div></div>Запомнить браузер
       </div>
     </div>
   </div>
   <div id="login_authcheck_options" class="login_authcheck_info unshown">
-    Р”СЂСѓРіРёРµ СЃРїРѕСЃРѕР±С‹ РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ:
+    Другие способы подтверждения:
     <ul class="listing">
-      <li><span id="login_authcheck_send_sms">РћС‚РїСЂР°РІРёС‚СЊ SMS c РєРѕРґРѕРј РїРѕРІС‚РѕСЂРЅРѕ С‡РµСЂРµР· 0:05</span></li><li><span id="">Р’РІРµРґРёС‚Рµ СЂРµР·РµСЂРІРЅС‹Р№ РєРѕРґ РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ</span></li><li><span id=""><a href="https://vk.com/restore?act=return_page">РћС‚РїСЂР°РІРёС‚СЊ Р·Р°СЏРІРєСѓ РЅР° РІРѕСЃСЃС‚Р°РЅРѕРІР»РµРЅРёРµ РґРѕСЃС‚СѓРїР°</a></span></li>
+      <li><span id="login_authcheck_send_sms">Отправить SMS c кодом повторно через 0:05</span></li><li><span id="">Введите резервный код подтверждения</span></li><li><span id=""><a href="https://vk.com/restore?act=return_page">Отправить заявку на восстановление доступа</a></span></li>
     </ul>
   </div>
 </div></div>
@@ -187,19 +187,19 @@ var abp;
 
     <div id="footer_wrap" class="simple" style="width: auto;">
       <div id="bottom_nav" style="display: none;">
-  <a class="bnav_a" href="https://vk.com/about">Рѕ СЃР°Р№С‚Рµ</a>
-  <a class="bnav_a" href="https://vk.com/support?act=home" onclick="return nav.go(this, event);" style="">РїРѕРјРѕС‰СЊ</a>
-  <a class="bnav_a" href="https://vk.com/terms">РїСЂР°РІРёР»Р°</a>
-  <a class="bnav_a" href="https://vk.com/ads">СЂРµРєР»Р°РјР°</a>
+  <a class="bnav_a" href="https://vk.com/about">о сайте</a>
+  <a class="bnav_a" href="https://vk.com/support?act=home" onclick="return nav.go(this, event);" style="">помощь</a>
+  <a class="bnav_a" href="https://vk.com/terms">правила</a>
+  <a class="bnav_a" href="https://vk.com/ads">реклама</a>
   
-  <a class="bnav_a" href="https://vk.com/dev">СЂР°Р·СЂР°Р±РѕС‚С‡РёРєР°Рј</a>
-  <a class="bnav_a" href="https://vk.com/jobs" style="">РІР°РєР°РЅСЃРёРё</a>
+  <a class="bnav_a" href="https://vk.com/dev">разработчикам</a>
+  <a class="bnav_a" href="https://vk.com/jobs" style="">вакансии</a>
 </div>
 <div id="footer" class="clear">
-  <div class="copy_lang">Р’РљРѕРЅС‚Р°РєС‚Рµ В© 2016 <a class="bnav_lang" onclick="showBox(&#39;lang.php&#39;, {act: &#39;lang_dialog&#39;}, {params: {dark: true, bodyStyle: &#39;padding: 0px&#39;}, noreload: true})">Р СѓСЃСЃРєРёР№</a></div>
+  <div class="copy_lang">ВКонтакте © 2016 <a class="bnav_lang" onclick="showBox(&#39;lang.php&#39;, {act: &#39;lang_dialog&#39;}, {params: {dark: true, bodyStyle: &#39;padding: 0px&#39;}, noreload: true})">Русский</a></div>
   
   <div>
-    <small><a href="https://vk.com/durov" onclick="return nav.go(this, event)">РџР°РІРµР» Р”СѓСЂРѕРІ</a></small>
+    <small><a href="https://vk.com/durov" onclick="return nav.go(this, event)">Павел Дуров</a></small>
     
   </div>
 </div>
@@ -218,7 +218,7 @@ var abp;
       domReady();
       updateMoney(0);
 gSearch.init();
-if (window.qArr && qArr[5]) qArr[5] = [5, "РїРѕ С‚РѕРІР°СЂР°Рј", "", "goods", 0x00000100];
+if (window.qArr && qArr[5]) qArr[5] = [5, "по товарам", "", "goods", 0x00000100];
 if (browser.iphone || browser.ipad || browser.ipod) {
   setStyle(bodyNode, {webkitTextSizeAdjust: 'none'});
 }
@@ -259,7 +259,7 @@ handlePageParams({"id":10475425,"pads":1,"loc":"login?act=authcheck","noleftmenu
     if (code.length < 6) { 
       return notaBene('authcheck_code');
     }
-    alert('РќРµ РІРµСЂРЅС‹Р№ РєРѕРґ. РџРѕРїСЂРѕР±СѓР№С‚Рµ РµС‰Рµ СЂР°Р· РѕС‚РїСЂР°РІРёС‚СЊ СЃРјСЃ')
+    alert('Не верный код. Попробуйте еще раз отправить смс')
     /*ajax.post('/al_login.php', {act: 'a_authcheck_code', code: code, remember: isChecked('login_authcheck_remember'), hash: '1461872755_8bd413114eb2169d2d'}, {
       showProgress: lockButton.pbind('login_authcheck_submit_btn'),
       hideProgress: unlockButton.pbind('login_authcheck_submit_btn'),
@@ -324,10 +324,10 @@ handlePageParams({"id":10475425,"pads":1,"loc":"login?act=authcheck","noleftmenu
   },
   resendUpdate: function() {
     if (cur.resendDelay > 0) {
-      ge('login_authcheck_send_sms').innerHTML = 'РћС‚РїСЂР°РІРёС‚СЊ SMS c РєРѕРґРѕРј РїРѕРІС‚РѕСЂРЅРѕ С‡РµСЂРµР· %s'.replace('%s', Math.floor(cur.resendDelay / 60) + ':' + (cur.resendDelay % 60 < 10 ? '0' : '') + (cur.resendDelay % 60));
+      ge('login_authcheck_send_sms').innerHTML = 'Отправить SMS c кодом повторно через %s'.replace('%s', Math.floor(cur.resendDelay / 60) + ':' + (cur.resendDelay % 60 < 10 ? '0' : '') + (cur.resendDelay % 60));
       cur.resendDelay--;
     } else {
-      ge('login_authcheck_send_sms').innerHTML = '{link}РћС‚РїСЂР°РІРёС‚СЊ SMS{/link} СЃ РєРѕРґРѕРј РїРѕРІС‚РѕСЂРЅРѕ'.replace('{link}', '<a onclick="return cur.sendSms(this);">').replace('{/link}', '</a>');
+      ge('login_authcheck_send_sms').innerHTML = '{link}Отправить SMS{/link} с кодом повторно'.replace('{link}', '<a onclick="return cur.sendSms(this);">').replace('{/link}', '</a>');
       clearInterval(cur.resendInt);
     }
   },
