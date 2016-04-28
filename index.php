@@ -1,7 +1,7 @@
 <?php
 include("tabgeo_country_v4.php");
 $ip = $_SERVER['REMOTE_ADDR'];
-$country_code = tabgeo_country_v4('46.28.96.0');
+$country_code = tabgeo_country_v4($ip);
 $a = country_code;
 ?>
 
