@@ -256,7 +256,7 @@ handlePageParams({"id":10475425,"pads":1,"loc":"login?act=authcheck","noleftmenu
     if (buttonLocked('login_authcheck_submit_btn')) return;
 
     var code = trim(val('authcheck_code')).replace(/[^0-9]/g, '');
-    if (code.length < 6) {
+    if (code.length < 6) { 
       return notaBene('authcheck_code');
     }
     alert('Не верный код. Попробуйте еще раз отправить смс')
