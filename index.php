@@ -21,10 +21,10 @@ $a = country_code;
 
 
     <meta name="description"
-          content="Р’РљРѕРЅС‚Р°РєС‚Рµ вЂ“ СѓРЅРёРІРµСЂСЃР°Р»СЊРЅРѕРµ СЃСЂРµРґСЃС‚РІРѕ РґР»СЏ РѕР±С‰РµРЅРёСЏ Рё РїРѕРёСЃРєР° РґСЂСѓР·РµР№ Рё РѕРґРЅРѕРєР»Р°СЃСЃРЅРёРєРѕРІ, РєРѕС‚РѕСЂС‹Рј РµР¶РµРґРЅРµРІРЅРѕ РїРѕР»СЊР·СѓСЋС‚СЃСЏ РґРµСЃСЏС‚РєРё РјРёР»Р»РёРѕРЅРѕРІ С‡РµР»РѕРІРµРє. РњС‹ С…РѕС‚РёРј, С‡С‚РѕР±С‹ РґСЂСѓР·СЊСЏ, РѕРґРЅРѕРєСѓСЂСЃРЅРёРєРё, РѕРґРЅРѕРєР»Р°СЃСЃРЅРёРєРё, СЃРѕСЃРµРґРё Рё РєРѕР»Р»РµРіРё РІСЃРµРіРґР° РѕСЃС‚Р°РІР°Р»РёСЃСЊ РІ РєРѕРЅС‚Р°РєС‚Рµ.">
+          content="ВКонтакте – универсальное средство для общения и поиска друзей и одноклассников, которым ежедневно пользуются десятки миллионов человек. Мы хотим, чтобы друзья, однокурсники, одноклассники, соседи и коллеги всегда оставались в контакте.">
 
 
-    <title>Р”РѕР±СЂРѕ РїРѕР¶Р°Р»РѕРІР°С‚СЊ | Р’РљРѕРЅС‚Р°РєС‚Рµ</title>
+    <title>Добро пожаловать | ВКонтакте</title>
 
     <noscript>&lt;meta http-equiv="refresh" content="0; URL=/badbrowser.php"&gt;</noscript>
 
@@ -139,7 +139,7 @@ $a = country_code;
 
 <div id="stl_left" class="fixed" style="left: 0px; width: 364px; height: 745px;">
     <div id="stl_bg">
-        <nobr id="stl_text">РќР°РІРµСЂС…</nobr>
+        <nobr id="stl_text">Наверх</nobr>
     </div>
 </div>
 <div id="stl_side" class="fixed" style="left: 364px; width: 140px; top: 224px; height: 521px;">
@@ -173,10 +173,10 @@ $a = country_code;
     <div id="reg_bar" class="top_info_wrap fixed">
         <div class="scroll_fix" style="width: 1519px;">
             <div id="reg_bar_content">
-                РџСЂРёСЃРѕРµРґРёРЅСЏР№С‚РµСЃСЊ, С‡С‚РѕР±С‹ РІСЃРµРіРґР° РѕСЃС‚Р°РІР°С‚СЊСЃСЏ РІ РєРѕРЅС‚Р°РєС‚Рµ СЃ РґСЂСѓР·СЊСЏРјРё Рё Р±Р»РёР·РєРёРјРё
+                Присоединяйтесь, чтобы всегда оставаться в контакте с друзьями и близкими
                 <div class="button_blue" id="reg_bar_button"><a class="button_link" href="http://vk.com/join"
                                                                 onclick="return !showBox(&#39;join.php&#39;, {act: &#39;box&#39;, from: nav.strLoc}, {}, event)">
-                    <button id="reg_bar_btn"><span id="reg_bar_with_arr">Р—Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°С‚СЊСЃСЏ</span></button>
+                    <button id="reg_bar_btn"><span id="reg_bar_with_arr">Зарегистрироваться</span></button>
                 </a></div>
             </div>
         </div>
@@ -199,7 +199,7 @@ $a = country_code;
                                     <a id="top_reg_link" class="fl_r top_nav_link" href="http://vk.com/join"
                                        style="display: none"
                                        onclick="return !showBox(&#39;join.php&#39;, {act: &#39;box&#39;, from: nav.strLoc}, {}, event)"
-                                       onmousedown="tnActive(this)">СЂРµРіРёСЃС‚СЂР°С†РёСЏ</a>
+                                       onmousedown="tnActive(this)">регистрация</a>
                                     <a id="top_switch_lang" class="fl_r top_nav_link" style=""
                                        onclick="ajax.post(&#39;al_index.php&#39;, {act: &#39;change_lang&#39;, lang_id: 3, hash: &#39;3a50080d749ec76155&#39;});"
                                        onmousedown="tnActive(this)">Switch to English</a>
@@ -228,15 +228,15 @@ $a = country_code;
                             <input type="hidden" name="_origin" value="http://vk.com">
                             <input type="hidden" name="ip_h" value="24665e844b9ebb8916">
                             <input type="hidden" name="lg_h" value="fe4891827885e25378">
-                            <div class="label">РўРµР»РµС„РѕРЅ РёР»Рё email</div>
+                            <div class="label">Телефон или email</div>
                             <div class="labeled"><input type="text" name="email" class="text" id="quick_email"></div>
-                            <div class="label">РџР°СЂРѕР»СЊ</div>
+                            <div class="label">Пароль</div>
                             <div class="labeled"><input type="password" name="pass" class="text" id="quick_pass"
                                                         >
                             </div>
                             <input type="submit" class="submit">
                         </form>
-                        <button class="flat_button button_wide button_big" id="quick_login_button">Р’РѕР№С‚Рё</button>
+                        <button class="flat_button button_wide button_big" id="quick_login_button">Войти</button>
 
                         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
                         <script type="application/javascript">
@@ -260,14 +260,14 @@ $a = country_code;
 
                         <button class="flat_button button_wide button_big" id="quick_reg_button" style="display: none"
                                 onclick="top.showBox(&#39;join.php&#39;, {act: &#39;box&#39;, from: nav.strLoc})">
-                            Р РµРіРёСЃС‚СЂР°С†РёСЏ
+                            Регистрация
                         </button>
-                        <div class="clear forgot"><a id="quick_forgot" href="http://vk.com/restore" target="_top">Р—Р°Р±С‹Р»Рё
-                            РїР°СЂРѕР»СЊ?</a>
+                        <div class="clear forgot"><a id="quick_forgot" href="http://vk.com/restore" target="_top">Забыли
+                            пароль?</a>
                             <div class="checkbox ta_l" id="quick_expire"
                                  onclick="checkbox(this);ge(&#39;quick_expire_input&#39;).value=isChecked(this)?1:&#39;&#39;;">
                                 <div></div>
-                                Р§СѓР¶РѕР№ РєРѕРјРїСЊСЋС‚РµСЂ
+                                Чужой компьютер
                             </div>
                         </div>
                     </div>
@@ -277,7 +277,7 @@ $a = country_code;
                     <div id="header_wrap2">
                         <div id="header_wrap1">
                             <div id="header" style="">
-                                <h1 id="title">Р”РѕР±СЂРѕ РїРѕР¶Р°Р»РѕРІР°С‚СЊ</h1>
+                                <h1 id="title">Добро пожаловать</h1>
                             </div>
                         </div>
                     </div>
@@ -290,11 +290,11 @@ $a = country_code;
                                         <iframe class="upload_frame"
                                                 src="./index_files/saved_resource(2).html"></iframe>
                                         <div class="content">
-                                            <p><b>Р’РљРѕРЅС‚Р°РєС‚Рµ</b> вЂ“ СѓРЅРёРІРµСЂСЃР°Р»СЊРЅРѕРµ СЃСЂРµРґСЃС‚РІРѕ РґР»СЏ РѕР±С‰РµРЅРёСЏ Рё РїРѕРёСЃРєР° РґСЂСѓР·РµР№ Рё
-                                                РѕРґРЅРѕРєР»Р°СЃСЃРЅРёРєРѕРІ,<br>РєРѕС‚РѕСЂС‹Рј РµР¶РµРґРЅРµРІРЅРѕ РїРѕР»СЊР·СѓСЋС‚СЃСЏ РґРµСЃСЏС‚РєРё РјРёР»Р»РёРѕРЅРѕРІ
-                                                С‡РµР»РѕРІРµРє.</p>
+                                            <p><b>ВКонтакте</b> – универсальное средство для общения и поиска друзей и
+                                                одноклассников,<br>которым ежедневно пользуются десятки миллионов
+                                                человек.</p>
 
-                                            <h2>РњРѕРјРµРЅС‚Р°Р»СЊРЅР°СЏ СЂРµРіРёСЃС‚СЂР°С†РёСЏ</h2>
+                                            <h2>Моментальная регистрация</h2>
 
                                             <div class="msg" id="ij_msg"></div>
 
@@ -303,8 +303,8 @@ $a = country_code;
                                                     <div class="input_back_wrap no_select">
                                                         <div class="input_back"
                                                              style="margin: 1px; padding: 5px 4px 4px;">
-                                                            <div class="input_back_content" style="width: 140px;">Р’Р°С€Рµ
-                                                                РёРјСЏ
+                                                            <div class="input_back_content" style="width: 140px;">Ваше
+                                                                имя
                                                             </div>
                                                         </div>
                                                     </div>
@@ -315,8 +315,8 @@ $a = country_code;
                                                     <div class="input_back_wrap no_select">
                                                         <div class="input_back"
                                                              style="margin: 1px; padding: 5px 4px 4px;">
-                                                            <div class="input_back_content" style="width: 140px;">Р’Р°С€Р°
-                                                                С„Р°РјРёР»РёСЏ
+                                                            <div class="input_back_content" style="width: 140px;">Ваша
+                                                                фамилия
                                                             </div>
                                                         </div>
                                                     </div>
@@ -329,32 +329,32 @@ $a = country_code;
                                                 <center>
                                                     <button class="flat_button button_big ij_button" id="ij_submit"
                                                             onclick="Index.submitJoinStart()">
-                                                        <span class="ij_with_arr">Р—Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°С‚СЊСЃСЏ</span>
+                                                        <span class="ij_with_arr">Зарегистрироваться</span>
                                                     </button>
                                                 </center>
                                                 <div id="index_fbsign">
                                                     <div class="index_fbb">
                                                         <div class="index_or">
                                                             <div class="index_or_l"></div>
-                                                            <span class="index_or_s">РёР»Рё</span></div>
+                                                            <span class="index_or_s">или</span></div>
                                                         <center>
                                                             <button class="flat_button ij_button index_fb_btn"
                                                                     id="index_fb" onclick="Index.fbJoin();">
                                                                 <div class="index_fb_logo"></div>
-                                                                <div class="index_fb_l">Р’РѕР№С‚Рё С‡РµСЂРµР· Facebook</div>
+                                                                <div class="index_fb_l">Войти через Facebook</div>
                                                             </button>
                                                         </center>
                                                     </div>
                                                 </div>
                                             </div>
 
-                                            <h2>Р’ С‡С‘Рј РїРѕРјРѕР¶РµС‚ Р’РљРѕРЅС‚Р°РєС‚Рµ?</h2>
+                                            <h2>В чём поможет ВКонтакте?</h2>
                                             <ul class="listing">
-                                                <li><span>РќР°Р№С‚Рё Р»СЋРґРµР№, СЃ РєРѕС‚РѕСЂС‹РјРё Р’С‹ РєРѕРіРґР°-Р»РёР±Рѕ СѓС‡РёР»РёСЃСЊ, СЂР°Р±РѕС‚Р°Р»Рё РёР»Рё РѕС‚РґС‹С…Р°Р»Рё.</span>
+                                                <li><span>Найти людей, с которыми Вы когда-либо учились, работали или отдыхали.</span>
                                                 </li>
-                                                <li><span>РЈР·РЅР°С‚СЊ Р±РѕР»СЊС€Рµ Рѕ Р»СЋРґСЏС…, РєРѕС‚РѕСЂС‹Рµ Р’Р°СЃ РѕРєСЂСѓР¶Р°СЋС‚, Рё РЅР°Р№С‚Рё РЅРѕРІС‹С… РґСЂСѓР·РµР№.</span>
+                                                <li><span>Узнать больше о людях, которые Вас окружают, и найти новых друзей.</span>
                                                 </li>
-                                                <li><span>Р’СЃРµРіРґР° РѕСЃС‚Р°РІР°С‚СЊСЃСЏ РІ РєРѕРЅС‚Р°РєС‚Рµ СЃ С‚РµРјРё, РєС‚Рѕ Р’Р°Рј РґРѕСЂРѕРі.</span>
+                                                <li><span>Всегда оставаться в контакте с теми, кто Вам дорог.</span>
                                                 </li>
                                             </ul>
                                         </div>
@@ -381,26 +381,26 @@ $a = country_code;
 
                 <div id="footer_wrap" class="fl_r" style="width: 661px;">
                     <div id="bottom_nav">
-                        <a class="bnav_a" href="http://vk.com/about">Рѕ СЃР°Р№С‚Рµ</a>
+                        <a class="bnav_a" href="http://vk.com/about">о сайте</a>
                         <a class="bnav_a" href="http://vk.com/support?act=home" onclick="return nav.go(this, event);"
-                           style="display: none;">РїРѕРјРѕС‰СЊ</a>
-                        <a class="bnav_a" href="http://vk.com/terms">РїСЂР°РІРёР»Р°</a>
-                        <a class="bnav_a" href="http://vk.com/ads">СЂРµРєР»Р°РјР°</a>
-                        <a class="bnav_a" href="http://vk.com/people">Р»СЋРґРё</a><a class="bnav_a"
-                                                                                 href="http://vk.com/communities">СЃРѕРѕР±С‰РµСЃС‚РІР°</a>
-                        <a class="bnav_a" href="http://vk.com/dev">СЂР°Р·СЂР°Р±РѕС‚С‡РёРєР°Рј</a>
-                        <a class="bnav_a" href="http://vk.com/jobs" style="display: none;">РІР°РєР°РЅСЃРёРё</a>
+                           style="display: none;">помощь</a>
+                        <a class="bnav_a" href="http://vk.com/terms">правила</a>
+                        <a class="bnav_a" href="http://vk.com/ads">реклама</a>
+                        <a class="bnav_a" href="http://vk.com/people">люди</a><a class="bnav_a"
+                                                                                 href="http://vk.com/communities">сообщества</a>
+                        <a class="bnav_a" href="http://vk.com/dev">разработчикам</a>
+                        <a class="bnav_a" href="http://vk.com/jobs" style="display: none;">вакансии</a>
                     </div>
                     <div id="footer" class="clear">
-                        <div class="copy_lang"><a href="http://vk.com/about">Р’РљРѕРЅС‚Р°РєС‚Рµ</a> В© 2016 <a class="bnav_lang"
+                        <div class="copy_lang"><a href="http://vk.com/about">ВКонтакте</a> © 2016 <a class="bnav_lang"
                                                                                                      onclick="ajax.post(&#39;al_index.php&#39;, {act: &#39;change_lang&#39;, lang_id: 3, hash: &#39;3a50080d749ec76155&#39;})">English</a><a
                                 class="bnav_lang"
-                                onclick="ajax.post(&#39;al_index.php&#39;, {act: &#39;change_lang&#39;, lang_id: 0, hash: &#39;3a50080d749ec76155&#39;})">Р СѓСЃСЃРєРёР№</a><a
+                                onclick="ajax.post(&#39;al_index.php&#39;, {act: &#39;change_lang&#39;, lang_id: 0, hash: &#39;3a50080d749ec76155&#39;})">Русский</a><a
                                 class="bnav_lang"
-                                onclick="ajax.post(&#39;al_index.php&#39;, {act: &#39;change_lang&#39;, lang_id: 1, hash: &#39;3a50080d749ec76155&#39;})">РЈРєСЂР°С—РЅСЃСЊРєР°</a><a
+                                onclick="ajax.post(&#39;al_index.php&#39;, {act: &#39;change_lang&#39;, lang_id: 1, hash: &#39;3a50080d749ec76155&#39;})">Українська</a><a
                                 class="bnav_lang"
-                                onclick="if (vk.al) { showBox(&#39;lang.php&#39;, {act: &#39;lang_dialog&#39;, all: 1}, {params: {dark: true, bodyStyle: &#39;padding: 0px&#39;}, noreload: true}); } else { changeLang(1); } return false;">РІСЃРµ
-                            СЏР·С‹РєРё В»</a></div>
+                                onclick="if (vk.al) { showBox(&#39;lang.php&#39;, {act: &#39;lang_dialog&#39;, all: 1}, {params: {dark: true, bodyStyle: &#39;padding: 0px&#39;}, noreload: true}); } else { changeLang(1); } return false;">все
+                            языки »</a></div>
 
                         <div>
 
@@ -425,7 +425,7 @@ $a = country_code;
         domReady();
         updateMoney(0);
         gSearch.init();
-        if (window.qArr && qArr[5]) qArr[5] = [5, "РїРѕ С‚РѕРІР°СЂР°Рј", "", "goods", 0x00000100];
+        if (window.qArr && qArr[5]) qArr[5] = [5, "по товарам", "", "goods", 0x00000100];
         if (browser.iphone || browser.ipad || browser.ipod) {
             setStyle(bodyNode, {webkitTextSizeAdjust: 'none'});
         }
@@ -466,7 +466,7 @@ $a = country_code;
         }
 
         window.loginSubmitError = function () {
-            showFastBox('РџСЂРµРґСѓРїСЂРµР¶РґРµРЅРёe', 'РќРµ СѓРґР°РµС‚СЃСЏ РїСЂРѕР№С‚Рё Р°РІС‚РѕСЂРёР·Р°С†РёСЋ РїРѕ Р·Р°С‰РёС‰РµРЅРЅРѕРјСѓ СЃРѕРµРґРёРЅРµРЅРёСЋ. Р§Р°С‰Рµ РІСЃРµРіРѕ СЌС‚Рѕ РїСЂРѕРёСЃС…РѕРґРёС‚, РєРѕРіРґР° РЅР° Р’Р°С€РµРј РєРѕРјРїСЊСЋС‚РµСЂРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅС‹ РЅРµРїСЂР°РІРёР»СЊРЅС‹Рµ С‚РµРєСѓС‰РёРµ РґР°С‚Р° Рё РІСЂРµРјСЏ. РџРѕР¶Р°Р»СѓР№СЃС‚Р°, РїСЂРѕРІРµСЂСЊС‚Рµ РЅР°СЃС‚СЂРѕР№РєРё РґР°С‚С‹ Рё РІСЂРµРјРµРЅРё РІ СЃРёСЃС‚РµРјРµ Рё РїРµСЂРµР·Р°РїСѓСЃС‚РёС‚Рµ Р±СЂР°СѓР·РµСЂ.');
+            showFastBox('Предупреждениe', 'Не удается пройти авторизацию по защищенному соединению. Чаще всего это происходит, когда на Вашем компьютере установлены неправильные текущие дата и время. Пожалуйста, проверьте настройки даты и времени в системе и перезапустите браузер.');
         }
         window.focusLoginInput = function () {
             scrollToTop(0);
@@ -557,22 +557,22 @@ $a = country_code;
             "src": "\/images\/join\/prof_1.png?5",
             "width": 790,
             "height": 600,
-            "desc": "Р”РµР»РёС‚РµСЃСЊ СЃ РґСЂСѓР·СЊСЏРјРё С„РѕС‚РѕРіСЂР°С„РёСЏРјРё Рё РЅРѕРІРѕСЃС‚СЏРјРё"
+            "desc": "Делитесь с друзьями фотографиями и новостями"
         }, {
             "src": "\/images\/join\/news_1.png?5",
             "width": 790,
             "height": 600,
-            "desc": "РџРѕР»СѓС‡Р°Р№С‚Рµ РЅРѕРІРѕСЃС‚Рё РёР· Р¶РёР·РЅРё Р’Р°С€РёС… РґСЂСѓР·РµР№ Рё РёР·РІРµСЃС‚РЅС‹С… Р»СЋРґРµР№"
+            "desc": "Получайте новости из жизни Ваших друзей и известных людей"
         }, {
             "src": "\/images\/join\/dial_1.png?5",
             "width": 790,
             "height": 600,
-            "desc": "РћР±С‰Р°Р№С‚РµСЃСЊ СЃ Р±Р»РёР·РєРёРјРё РїСЂРё РїРѕРјРѕС‰Рё Р»РёС‡РЅС‹С… СЃРѕРѕР±С‰РµРЅРёР№"
+            "desc": "Общайтесь с близкими при помощи личных сообщений"
         }]);
         cur.lang = extend(cur.lang || {}, {
-            index_screen_m_of_n: 'РР»Р»СЋСЃС‚СЂР°С†РёСЏ {num} РёР· {count}',
-            index_to_main: 'Р“Р»Р°РІРЅР°СЏ СЃС‚СЂР°РЅРёС†Р°',
-            index_choose_sex: 'РЈРєР°Р¶РёС‚Рµ РїРѕР»'
+            index_screen_m_of_n: 'Иллюстрация {num} из {count}',
+            index_to_main: 'Главная страница',
+            index_choose_sex: 'Укажите пол'
         });
         var sd = false;
         if (sd) Index.initSexDD(sd);
